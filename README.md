@@ -24,7 +24,7 @@ Safe data sync/share among your devices/friends without trusting a third-party
 
 ## Huh???
 
-Watch the [gif](http://gph.is/1TXYmvO) (~ 1min)
+Watch the [gif](http://gph.is/1TXYmvO) (1min 45sec)
 
 ![](http://i.giphy.com/3o72Fk4chYz3GigwbS.gif)
 
