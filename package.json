@@ -1,6 +1,6 @@
 {
   "name": "0sync",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Zero Knowledge Syncing and Sharing for Chrome-based browsers",
   "main": "index.js",
   "scripts": {
