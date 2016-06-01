@@ -35,9 +35,9 @@ Watch the (gif)[http://gph.is/1TXYmvO] (~ 1min)
 
 ## How?
 
-All encryption is done client-side with triplesec
+All encryption is done client-side with Keybase's (Triplesec)[https://keybase.io/triplesec/]
 
-The syncing is done leveraging Automattic's Simperium API (which has a generous free tier).
+The syncing is done leveraging Automattic's (Simperium)[https://simperium.com] API (which has a generous free tier).
 
 ## Installation
 
@@ -50,7 +50,7 @@ Later versions will come with a packed extension "release". For now, these are t
 
 ### Steps
 
-First you download and build:
+a) First you download and build:
 
 ````bash
 git clone https://github.com/kapolos/0sync.git
@@ -59,4 +59,10 @@ npm i
 gulp
 ````
 
-Then go to Chrome extensions, enable the developer mode and select the directory to load the extension.
+b) Then go to Chrome extensions, enable the developer mode and select the directory to load the extension.
+
+c) Register a free account on Simperium and create a new App. Copy the App's ID and the Admin Token ro the extension's Options page
+
+d) Choose a nice encryption phrase on the Options page
+
+e) Have fun!
