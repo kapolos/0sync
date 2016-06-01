@@ -1,5 +1,5 @@
 # Zero-Knowledge Sync & Share for Chrome
-#### Think Mozilla Sync for Chrome in ~ 200 lines of code
+#### Think Mozilla Sync for Chrome in ~ 300 lines of code
 
 ## TL;DR
 
