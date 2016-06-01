@@ -1,0 +1,27 @@
+{
+  "name": "Zero-Knowledge Sync & Share",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Zero Knowledge Syncing and Sharing for Chrome-based browsers",
+  "homepage_url": "http://github.com/kapolos/0sync",
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "background": {
+    "scripts": [
+      "assets/simperium-0.1.min.js",
+      "assets/triplesec.js",
+      "assets/bluebird.min.js",
+      "src/background.js"
+    ],
+    "persistent": true
+  },
+  "options_page": "options.html",
+  "permissions": [
+    "bookmarks",
+    "storage",
+    "https://api.simperium.com/"
+  ]
+}

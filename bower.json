@@ -1,0 +1,23 @@
+{
+  "name": "0sync",
+  "authors": [
+    "John Kapolos <john@kapolos.com>"
+  ],
+  "description": "Zero Knowledge Syncing and Sharing for Chrome-based browsers",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "triplesec": "^3.0.25",
+    "bulma": "^0.0.26",
+    "simperium": "https://js.simperium.com/v0.1/"
+  }
+}

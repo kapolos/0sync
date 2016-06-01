@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Options Page</title>
+    <link rel="stylesheet" href="assets/bulma.min.css">
+    <style>
+        main {
+            max-width: 500px;
+            margin: 0 auto;
+            padding-top: 4%;
+            padding-bottom: 4%;
+        }
+    </style>
+</head>
+<body>
+
+<main>
+    <label class="label">App ID</label>
+    <p class="control">
+        <input class="input" type="text" placeholder="Simperium App ID" id="appid">
+    </p>
+    <label class="label">API Token</label>
+    <p class="control">
+        <input class="input" type="password" placeholder="Simperium API Token" id="apikey">
+    </p>
+    <label class="label">Encryption Phrase</label>
+    <p class="control">
+        <input class="input" type="password" id="encphrase">
+    </p>
+
+    <div id="status"></div>
+    <button class="button is-primary" id="save">Save Settings and Reload Extension</button>
+</main>
+
+<script src="src/options.js"></script>
+</body>
+</html>
