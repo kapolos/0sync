@@ -3,10 +3,10 @@
 
 ## TL;DR
 
-Safe data sync/share among your devices/friends without trusting a third-party
+**Safe data sync/share among your devices/friends without trusting a third-party**
 
 
-## What is currently does on v. 01:
+## What is currently does on v. 0.1:
 
 * Encrypts all the bookmarks in a folder on computer A
 * Decrypts all the bookmarks in a folder on computer B
