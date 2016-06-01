@@ -24,7 +24,7 @@ Safe data sync/share among your devices/friends without trusting a third-party
 
 ## Huh???
 
-Watch the (gif)[http://gph.is/1TXYmvO] (~ 1min)
+Watch the [gif](http://gph.is/1TXYmvO) (~ 1min)
 
 ![](http://i.giphy.com/3o72Fk4chYz3GigwbS.gif)
 
@@ -35,9 +35,9 @@ Watch the (gif)[http://gph.is/1TXYmvO] (~ 1min)
 
 ## How?
 
-All encryption is done client-side with Keybase's (Triplesec)[https://keybase.io/triplesec/]
+All encryption is done client-side with Keybase's [Triplesec](https://keybase.io/triplesec/)
 
-The syncing is done leveraging Automattic's (Simperium)[https://simperium.com] API (which has a generous free tier).
+The syncing is done leveraging Automattic's [Simperium](https://simperium.com) API (which has a generous free tier).
 
 ## Installation
 
